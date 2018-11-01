@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Database_Insert</string>
+    <string name="editTextCountry">Country</string>
+    <string name="editTextCity">City</string>
+    <string name="buttonInsertRecord">Insert Record</string>
+    <string name="buttonReadData">Read Data</string>
+    <string name="buttonUpdateRecord">UpdateRecord</string>
+    <string name="buttonDeleteRecord">DeleteRecord</string>
+    <string name="editTextResult">Result</string>
+    <string name="textViewResult" />
+</resources>
